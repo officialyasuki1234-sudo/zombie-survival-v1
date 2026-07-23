@@ -14,3 +14,4 @@ Open `index.html` in any web browser.
 - Every third round adds 2 speedy zombies (1.5x speed, 2 HP)
 - Every fifth round adds 1 big zombie (7 HP)
 - A map with obstacles
+- working on abilities, crystal/gem drops, bosses (will be difficult)
