@@ -3,15 +3,9 @@
 A tiny first browser game. Move with WASD and survive zombie waves.
 
 ## Run it
-
+Any released version will be placed on released page
 Open `index.html` in any web browser.
 
-## First future upgrades
-
-- Health instead of instant death
-- Gun and bullets
-- 100 rounds: each round spawns `2n + 3` zombies
-- Every third round adds 2 speedy zombies (1.5x speed, 2 HP)
-- Every fifth round adds 1 big zombie (7 HP)
-- A map with obstacles
-- working on abilities, crystal/gem drops, bosses (will be difficult)
+## If theres any ideas/opinion you want to share do free to join the discord below 
+https://discord.gg/jxPPFPkF9
+Ping me if there's any importance,bug or any game related questions thanks!
